@@ -1,0 +1,13 @@
+package:
+  name: riscv-cpu
+  authors: ["Tim Heaton"]
+
+sources: 
+  - files:
+    - ""
+
+plugins:
+  harden: scripts/harden.sh
+
+dependencies:
+  jtag: { git: "git@github.com:Heaton15/jtag.git", rev: main}
