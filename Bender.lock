@@ -1,0 +1,7 @@
+packages:
+  jtag:
+    revision: 1bda87b0ef6975ecef4b6be3b4bf52e344a50273
+    version: null
+    source:
+      Git: git@github.com:Heaton15/jtag.git
+    dependencies: []
